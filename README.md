@@ -3,7 +3,8 @@
 Building Blood Donation Management System Project with Using Java Swing, Mysql & Maven.
 
 ## Links
-https://www.youtube.com/watch?v=GIyIWpC5YIw
+[Blood Bank Management System in java (JFrame, Netbeans, Mysql) Complete Project (step by step)] https://www.youtube.com/watch?v=C0N-6VZwwf0
+[How to create a runnable JAR file with Maven? || How to make an executable jar in Maven?] https://www.youtube.com/watch?v=GIyIWpC5YIw
 
 ## Dependencies
 * JDK (jdk-18_windows-x64_bin)
